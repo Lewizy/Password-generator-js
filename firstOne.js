@@ -1,6 +1,5 @@
 
     
-    
 function randomPasswordGenerator() {
   var text = "";
   var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
