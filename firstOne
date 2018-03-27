@@ -23,8 +23,8 @@ function randomPasswordGenerator() {
 console.log(randomPasswordGenerator());
 //
 
-//testing pull requests
-//master merge
+
+
 
 
     </script>
