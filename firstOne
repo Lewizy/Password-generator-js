@@ -19,7 +19,7 @@ function randomPasswordGenerator() {
 }
   return text;
 }
-
+//testing still
 console.log(randomPasswordGenerator());
 //
 
