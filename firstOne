@@ -23,10 +23,8 @@ function randomPasswordGenerator() {
 console.log(randomPasswordGenerator());
 //
 
-//
-Math.random().toString(36).substr(2, 5); //password generator   
-Math.random().toString(36).substring(2); //password generator   
-//
+//testing pull requests
+
 
     </script>
 </body>
