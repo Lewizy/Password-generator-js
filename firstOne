@@ -19,14 +19,12 @@ function randomPasswordGenerator() {
 }
   return text;
 }
-
+//testing still
 console.log(randomPasswordGenerator());
 //
 
-//testing pull requests
-//testing 3rd branch merge
-//edited
-//edit #3
+
+
 
     </script>
 </body>
