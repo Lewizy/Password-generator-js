@@ -1,2 +1,2 @@
 # Password-generator-js
-password generator codes in javascript
+password generator codes javascript
